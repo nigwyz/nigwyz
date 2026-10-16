@@ -24,7 +24,7 @@
 
 ### AI / Edge AI
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=3" />
-<br/>
+
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
@@ -36,14 +36,14 @@
 
 ### Backend / Data / DevOps
 <img src="https://skillicons.dev/icons?i=fastapi,react,docker,postgres,sqlite,nginx,supabase,linux,git,githubactions&theme=dark&perline=10" />
-<br/>
+
 ![MQTT](https://img.shields.io/badge/MQTT-FF6600?style=flat-square&logo=eclipsemosquitto&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ### Hardware
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=2" />
-<br/>
+
 ![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-00979D?style=flat-square&logo=espressif&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-ED1C24?style=flat-square&logo=intel&logoColor=white)
