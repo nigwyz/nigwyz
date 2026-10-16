@@ -26,11 +26,4 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=nigwyz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=6)
-
-</div>
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
