@@ -20,7 +20,7 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,bash&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,ts,html,css,bash&theme=dark&perline=7" />
 
 ### AI / Edge AI
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=3" />
@@ -35,7 +35,7 @@
 ![TinyML](https://img.shields.io/badge/TinyML-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ### Backend / Data / DevOps
-<img src="https://skillicons.dev/icons?i=fastapi,react,docker,postgres,sqlite,nginx,supabase,linux,git,githubactions&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,sqlite,nginx,supabase,linux,git,githubactions&theme=dark&perline=9" />
 
 ![MQTT](https://img.shields.io/badge/MQTT-FF6600?style=flat-square&logo=eclipsemosquitto&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
@@ -55,7 +55,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=nigwyz&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=nigwyz&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nigwyz&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=JavaScript,TypeScript,Rust)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nigwyz&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=JavaScript,Rust)
 
 </div>
 
