@@ -20,7 +20,7 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=py,rust,c,cpp,js,ts,html,css,bash&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,bash&theme=dark&perline=6" />
 
 ### AI / Edge AI
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=3" />
@@ -55,7 +55,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=nigwyz&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=nigwyz&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nigwyz&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nigwyz&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=JavaScript,TypeScript,Rust)
 
 </div>
 
