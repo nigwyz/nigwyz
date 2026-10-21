@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bellili+Abdelaziz;AI+%26+Edge+AI+Engineer;Building+intelligent+edge+systems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Bellili+Abdelaziz;AI+%26+Edge+AI+Engineer;Building+intelligent+edge+systems." alt="Typing SVG" />
 
 <br/>
 
-**🇩🇿 Algerian developer · AI & Embedded Systems Engineer · IGEE (ex-INELEC) student building in public**
+<sub><b>🇩🇿 Algerian developer · AI & Embedded Systems Engineer · IGEE (ex-INELEC) student building in public</b></sub>
 
-<br/>
+<br/><br/>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bellili.abdelaziz.10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nigwyz)
